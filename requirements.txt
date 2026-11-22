@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn
+streamlit
+requests
+boto3
+langchain
+langchain-core
+langchain-aws
+langgraph
+python-dotenv
+pydantic
+python-multipart
+pypdf
+python-docx

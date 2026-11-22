@@ -1,0 +1,55 @@
+1. Account Agent :-
+
+1. How can I open a new savings account?
+2. What is the difference between a savings account and a current account?
+3. How can I update my registered mobile number?
+4. What documents are required to open a bank account?
+5. How can I check my account balance?
+
+2. Fraud Agent :-
+
+1. What should I do if I notice an unauthorized transaction?
+2. How can banks detect suspicious banking activities?
+3. What are the common types of online banking fraud?
+4. How can I protect my bank account from phishing attacks?
+5. What should I do if someone steals my debit card details?
+
+3. Loan Agent :-
+
+1. What are the eligibility criteria for a personal loan?
+2. What is the difference between a secured and unsecured loan?
+3. How does my credit score affect loan approval?
+4. What documents are required for a home loan?
+5. How is the EMI calculated for a personal loan?
+
+4. RAG Agent :-
+
+1. What is the KYC verification procedure?
+2. Which identity documents are accepted by banks?
+3. Why do banks verify customer identity?
+4. What are the customer identity verification requirements?
+5. What does the banking policy document say about KYC?
+
+5. Supervisor Agent :-
+
+1. Explain how to open a bank account and complete KYC verification.
+2. I noticed a suspicious transaction in my account. What should I do?
+3. I want a personal loan. Explain the eligibility criteria and application process.
+4. I need to check a transaction and report possible fraud.
+5. Explain KYC requirements and retrieve the relevant banking policy.
+
+6. Support Agent :-
+
+1. I forgot my internet banking password. How can I reset it?
+2. My debit card is not working. What should I do?
+3. I cannot log in to my mobile banking application.
+4. How can I raise a complaint with customer support?
+5. How can I block my debit card if I lose it?
+
+7. Transaction Agent :-
+
+1. Explain how to transfer money using NEFT.
+2. What is the difference between NEFT, RTGS and IMPS?
+3. How can I check my transaction history?
+4. My UPI transaction failed but money was deducted. What should I do?
+5. How long does an NEFT transaction usually take?

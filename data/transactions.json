@@ -1,0 +1,39 @@
+{
+  "customers": {
+    "CUST001": {
+      "account": {
+        "account_number": "100012345678",
+        "account_type": "Savings",
+        "balance": 125000.50,
+        "currency": "INR",
+        "status": "Active"
+      },
+      "transactions": [
+        {
+          "transaction_id": "TXN1001",
+          "date": "2026-11-18",
+          "description": "Grocery store",
+          "amount": 2450,
+          "type": "debit",
+          "status": "success"
+        },
+        {
+          "transaction_id": "TXN1002",
+          "date": "2026-11-19",
+          "description": "Salary credit",
+          "amount": 65000,
+          "type": "credit",
+          "status": "success"
+        },
+        {
+          "transaction_id": "TXN1003",
+          "date": "2026-11-20",
+          "description": "Online transfer",
+          "amount": 75000,
+          "type": "debit",
+          "status": "flagged"
+        }
+      ]
+    }
+  }
+}

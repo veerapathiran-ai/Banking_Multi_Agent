@@ -1,0 +1,76 @@
+SAVINGS ACCOUNT
+
+A savings account is intended for personal deposits
+and withdrawals.
+
+MINIMUM BALANCE
+
+Minimum balance requirements depend on the account
+product and bank. Customers should check the official
+schedule of charges.
+
+LOAN ELIGIBILITY
+
+Loan eligibility may depend on verified income,
+credit history, existing obligations, employment
+details and bank underwriting rules.
+
+LOAN INTEREST AND EMI
+
+Interest rates, fees and EMI amounts depend on the
+lender, product, tenure and customer profile.
+
+FRAUD AND DISPUTES
+
+Customers should promptly contact their bank through
+an official channel if they notice an unknown or
+unauthorized transaction.
+
+Never share your PIN, password, CVV or OTP.
+
+TRANSACTION STATUS
+
+A transaction marked successful in the sample data
+is a demonstration record only.
+
+A flagged transaction is sent for review by the
+sample fraud-screening agent.
+
+
+KYC POLICY
+
+KYC stands for Know Your Customer.
+
+Banks verify customer identity before opening
+bank accounts or providing financial services.
+
+CUSTOMER IDENTIFICATION
+
+Customers may be required to provide valid
+identity proof and address proof.
+
+IDENTITY VERIFICATION
+
+Banks verify customer information using
+approved identity verification procedures.
+
+CUSTOMER DOCUMENTS
+
+Commonly accepted documents may include
+government-issued identity documents and
+address verification documents.
+
+CUSTOMER MONITORING
+
+Banks monitor customer accounts and transactions
+to identify suspicious activities.
+
+KYC COMPLIANCE
+
+Banks follow applicable KYC and Anti-Money
+Laundering regulations.
+
+CUSTOMER INFORMATION UPDATE
+
+Customers should update their identity and
+address information whenever required.
